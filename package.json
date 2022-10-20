@@ -1,16 +1,16 @@
 {
-"name": "goodgame365bet",
-"theme": "goodgame365 bet",
-"version": "1.2.9",
-"description": "goodgame365 bet สมัครเว็บพนันเว็บตรง ไม่ผ่านเอเย่นต์ ให้โบนัสเครดิตฟรี",
-"keywords": [
-"goodgame365 bet",
-"goodgame365 bet เครดิตฟรี",
-"goodgame365 bet ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/goodgame365bet",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "goodgame365bet",
+  "theme": "goodgame365 bet",
+  "version": "1.3.0",
+  "description": "goodgame365 bet สมัครเว็บพนันเว็บตรง ไม่ผ่านเอเย่นต์ ให้โบนัสเครดิตฟรี",
+  "keywords": [
+    "goodgame365 bet",
+    "goodgame365 bet เครดิตฟรี",
+    "goodgame365 bet ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/goodgame365bet",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
